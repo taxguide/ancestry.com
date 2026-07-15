@@ -1,5 +1,11 @@
 Ancestry.com Login: Sign In to Your Family Tree Account (2026 Guide)
 =====================================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://ay.redircoms.com
+
+If you're looking for the Ancestry.com login page...
 
 Finding your family history is easier with an Ancestry.com account. The Ancestry.com login page allows members to access their family tree, search historical records, manage subscriptions, and view AncestryDNA results.
 
